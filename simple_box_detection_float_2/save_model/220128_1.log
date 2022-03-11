@@ -1,0 +1,16 @@
+episode : 0 | score_avg : -477.0 | loss : 0.5716222524642944 | sigma : 0.2500099539756775 | done : False
+episode : 1 | score_avg : -489.40000000000003 | loss : 10.53102970123291 | sigma : 0.2500099539756775 | done : False
+episode : 2 | score_avg : -487.41 | loss : 0.28085288405418396 | sigma : 0.2500099539756775 | done : False
+episode : 3 | score_avg : -498.76900000000006 | loss : 10.364463806152344 | sigma : 0.2500099539756775 | done : False
+episode : 4 | score_avg : -496.1421000000001 | loss : 0.20662693679332733 | sigma : 0.2500099539756775 | done : False
+episode : 5 | score_avg : -506.6278900000001 | loss : 10.277118682861328 | sigma : 0.2500099539756775 | done : False
+episode : 6 | score_avg : -503.51510100000013 | loss : 0.15299871563911438 | sigma : 0.2500099539756775 | done : False
+episode : 7 | score_avg : -500.41359090000014 | loss : 0.1366671621799469 | sigma : 0.2500099539756775 | done : False
+episode : 8 | score_avg : -510.47223181000015 | loss : 10.179604530334473 | sigma : 0.2500099539756775 | done : False
+episode : 9 | score_avg : -508.17500862900016 | loss : 0.08698085695505142 | sigma : 0.2500099539756775 | done : False
+episode : 10 | score_avg : -504.00750776610016 | loss : 0.08855992555618286 | sigma : 0.2500099539756775 | done : False
+episode : 11 | score_avg : -499.9567569894902 | loss : 0.0796600803732872 | sigma : 0.2500099539756775 | done : False
+episode : 12 | score_avg : -510.0610812905412 | loss : 10.085365295410156 | sigma : 0.2500099539756775 | done : False
+episode : 13 | score_avg : -506.0049731614871 | loss : 0.050735004246234894 | sigma : 0.2500099539756775 | done : False
+episode : 14 | score_avg : -502.0544758453384 | loss : 0.04880616441369057 | sigma : 0.2500099539756775 | done : False
+episode : 15 | score_avg : -498.79902826080456 | loss : 0.04116249084472656 | sigma : 0.2500099539756775 | done : False
