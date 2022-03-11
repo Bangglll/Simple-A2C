@@ -2,7 +2,7 @@
 
 We created A2C for bounding box detection.
 
-1.simple box detection 
+1.simple box detection <br/>
 state : x1, y1, x2, y2 [4]
 action : move x1 (move left and right) [2]
 reward : IoU
